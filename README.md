@@ -2,7 +2,7 @@
 # Hey there! I'm Matt! 👋
 
 **My name's Matt 💻  
-and I'm a cybersecurity engineer.**
+and I'm a cybersecurity engineer!**
 
 - 🛡️ Focused on Threat Detection & Log Management in the telco industry  
 - 🧠 Passionate about detection engineering, OCSF, and automation  
