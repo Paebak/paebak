@@ -13,6 +13,6 @@ and I'm a cybersecurity engineer.**
 ---
 
 ### 🔗 Connect with me
-- [LinkedIn]https://www.linkedin.com/in/matthew-downs2/
-- [Your Portfolio](https://neofound.org) (work in progress ) 
+- [Connect with me!] https://www.linkedin.com/in/matthew-downs2/
+- [Vist My Site! ](https://neofound.org) (work in progress ) 
 
