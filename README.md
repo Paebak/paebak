@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Paebak/paebak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Matt! 👋
 
-Here are some ideas to get you started:
+**My name's Matt 💻  
+and I'm a cybersecurity engineer.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ Focused on Threat Detection & Log Management in the telco industry  
+- 🧠 Passionate about detection engineering, OCSF, and automation  
+- 🧰 Tools I use: Splunk, Sentinel, Sentinel One, Anvilogic, OCSF and more  
+- 🎓 Continuously learning and building   
+- 🌈 Advocate for knowledge sharing and collaboration  
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn]https://www.linkedin.com/in/matthew-downs2/
+- [Your Portfolio](https://neofound.org) (work in progress ) 
+
